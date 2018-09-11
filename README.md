@@ -1,4 +1,3 @@
-# Pandas for loading data and visualisation
+# Portfolio Optimisation with Linear Algebra
 
-Just a super simple demonstration of how to load and visualise data with Pandas
-
+Some linear algebra in numpy and basic portfolio optimisation
