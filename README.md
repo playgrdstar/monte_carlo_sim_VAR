@@ -1,3 +1,3 @@
-# Portfolio Optimisation with Linear Algebra
+# Super Simple Primer on Interpolation
 
-Some linear algebra in numpy and basic portfolio optimisation
+Super Simple Primer on Interpolation
