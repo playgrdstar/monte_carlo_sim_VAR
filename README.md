@@ -1,3 +1,3 @@
-# Super Simple Primer on Interpolation
+# Primer on Linear Regression
 
-Super Simple Primer on Interpolation
+Primer on linear regression with statsmodels and scikit-learn
