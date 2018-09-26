@@ -1,3 +1,3 @@
-# Primer on Linear Regression
+# Simple Primer on VAR and Monte Carlo
 
-Primer on linear regression with statsmodels and scikit-learn
+Simple introduction to Monte Carlo simulation, applied to VAR
